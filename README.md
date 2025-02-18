@@ -23,7 +23,7 @@ This project integrates **Google Sheets** with **Looker Studio** to create a **v
 3. Create **visualizations** for donor retention and funding trends.
 
 ## Contributing
-Feel free to fork this repository and contribute! 🚀
+Feel free to fork this repository and contribute! 
 
 ## License
 This project is licensed under the MIT License.
